@@ -1,0 +1,114 @@
+.
+├── conteudo
+│   ├── formatado
+│   │   ├── response_10.json
+│   │   ├── response_11.json
+│   │   ├── response_12.json
+│   │   ├── response_13.json
+│   │   ├── response_14.json
+│   │   ├── response_15.json
+│   │   ├── response_1.json
+│   │   ├── response_2.json
+│   │   ├── response_3.json
+│   │   ├── response_5.json
+│   │   ├── response_6.json
+│   │   ├── response_7.json
+│   │   ├── response_8.json
+│   │   └── response_9.json
+│   └── limpo
+│       ├── response_10.json
+│       ├── response_11.json
+│       ├── response_12.json
+│       ├── response_13.json
+│       ├── response_14.json
+│       ├── response_15.json
+│       ├── response_1.json
+│       ├── response_2.json
+│       ├── response_3.json
+│       ├── response_5.json
+│       ├── response_6.json
+│       ├── response_7.json
+│       ├── response_8.json
+│       └── response_9.json
+├── conteudo_variado
+│   ├── formatado
+│   │   ├── response_10.json
+│   │   ├── response_11.json
+│   │   ├── response_12.json
+│   │   ├── response_13.json
+│   │   ├── response_14.json
+│   │   ├── response_15.json
+│   │   ├── response_17.json
+│   │   ├── response_18.json
+│   │   ├── response_19.json
+│   │   ├── response_1.json
+│   │   ├── response_20.json
+│   │   ├── response_21.json
+│   │   ├── response_22.json
+│   │   ├── response_23.json
+│   │   ├── response_24.json
+│   │   ├── response_25.json
+│   │   ├── response_26.json
+│   │   ├── response_27.json
+│   │   ├── response_2.json
+│   │   ├── response_3.json
+│   │   ├── response_4.json
+│   │   ├── response_5.json
+│   │   ├── response_6.json
+│   │   ├── response_7.json
+│   │   ├── response_8.json
+│   │   └── response_9.json
+│   └── limpo
+│       ├── response_10.json
+│       ├── response_11.json
+│       ├── response_12.json
+│       ├── response_13.json
+│       ├── response_14.json
+│       ├── response_15.json
+│       ├── response_17.json
+│       ├── response_18.json
+│       ├── response_19.json
+│       ├── response_1.json
+│       ├── response_20.json
+│       ├── response_21.json
+│       ├── response_22.json
+│       ├── response_23.json
+│       ├── response_24.json
+│       ├── response_25.json
+│       ├── response_26.json
+│       ├── response_27.json
+│       ├── response_2.json
+│       ├── response_3.json
+│       ├── response_4.json
+│       ├── response_5.json
+│       ├── response_6.json
+│       ├── response_7.json
+│       ├── response_8.json
+│       └── response_9.json
+├── formatar.py
+├── get_title.py
+├── links
+│   ├── formatado
+│   │   ├── response_10.json
+│   │   ├── response_11.json
+│   │   ├── response_2.json
+│   │   ├── response_3.json
+│   │   ├── response_4.json
+│   │   ├── response_5.json
+│   │   ├── response_6.json
+│   │   ├── response_7.json
+│   │   ├── response_8.json
+│   │   └── response_9.json
+│   └── limpo
+│       ├── response_10.json
+│       ├── response_11.json
+│       ├── response_2.json
+│       ├── response_3.json
+│       ├── response_4.json
+│       ├── response_5.json
+│       ├── response_6.json
+│       ├── response_7.json
+│       └── response_8.json
+└── tree.txt
+
+10 directories, 102 files

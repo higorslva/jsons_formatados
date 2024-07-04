@@ -1,0 +1,47 @@
+{
+    "opcao_menu": "Peticionamento Eletrônico",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "![tucujuris logo",
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/tucujuris-logo.png"
+        },
+        {
+            "opcao_submenu": "![seeu logo",
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/seeu-logo.png"
+        },
+        {
+            "opcao_submenu": "![pje logo",
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/pje-logo.png"
+        },
+        {
+            "opcao_submenu": "Todas as Unidades Judiciais",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/login/"
+        },
+        {
+            "opcao_submenu": "Consulta Processual",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-processo/consultar-processo.html"
+        },
+        {
+            "opcao_submenu": "Mais informações",
+            "link": "//old.tjap.jus.br/portal/tucujuris"
+        },
+        {
+            "opcao_submenu": "Execuções Penais",
+            "link": "https://seeu.pje.jus.br/seeu/"
+        },
+        {
+            "opcao_submenu": "Consulta Processual",
+            "link": "https://seeu.pje.jus.br/seeu/processo/consultaPublica.do?actionType=iniciar"
+        },
+        {
+            "opcao_submenu": "Mais informações",
+            "link": "//old.tjap.jus.br/portal/seeu"
+        },
+        {
+            "opcao_submenu": "Consulta Processual",
+            "link": "https://pje.tjap.jus.br/1g/ConsultaPublica/listView.seam"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/2015-12-17-18-48-31/2015-12-17-18-55-24.html",
+    "descricao": "  ×         Sistemas --------  | ](http://tucujuris.tjap.jus.br/tucujuris/pages/login/) | ](https://seeu.pje.jus.br/seeu/) | ](https://old.tjap.jus.br/portal/pje) | | --- | --- | --- | |    |    |  |  "
+}

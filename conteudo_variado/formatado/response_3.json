@@ -1,0 +1,75 @@
+{
+    "opcao_menu": "Tribunal de Justiça do Estado do Amapá",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "",
+            "link": "http://www.tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Ir ao Portal",
+            "link": "http://www.tjap.jus.br/portal"
+        },
+        {
+            "opcao_submenu": "Produtividade dos Magistrados",
+            "link": "../view/list.magistrado.view.php"
+        },
+        {
+            "opcao_submenu": "Processômetro 2G",
+            "link": "https://sig.tjap.jus.br/tucujurometro2g/tucujurometro2g.php"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "../view/view.php"
+        },
+        {
+            "opcao_submenu": "Processômetro (Dados extraídos ontem)",
+            "link": "../view/view.php"
+        },
+        {
+            "opcao_submenu": "Corregedoria",
+            "link": "https://old.tjap.jus.br/app/open/proc/res/img/arrow.png"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://old.tjap.jus.br/app/open/proc/imagens/estadualprimeirograu.jpg"
+        },
+        {
+            "opcao_submenu": "Voltar ao topo",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "blank",
+            "link": "https://old.tjap.jus.br/app/open/proc/res/img/fullmap1.jpg"
+        },
+        {
+            "opcao_submenu": "![Fechar Menu",
+            "link": "https://old.tjap.jus.br/app/open/proc/res/img/close3.png"
+        },
+        {
+            "opcao_submenu": "Grafico de Barras",
+            "link": "https://old.tjap.jus.br/app/open/proc/lib/grafico.php?titulo=ESTADUAL+-+PRIMEIRO+GRAU&tpGrafico=2&tipo=1"
+        },
+        {
+            "opcao_submenu": "632",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "688",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "GraficoInfo",
+            "link": "https://old.tjap.jus.br/app/open/proc/lib/grafico.php?tpGrafico=3"
+        },
+        {
+            "opcao_submenu": "Acompanhamento das metas nacionais",
+            "link": "https://sig.tjap.jus.br/sgpegridmetascnj2019unidade"
+        },
+        {
+            "opcao_submenu": "Comparar Desempenho",
+            "link": "../view/compara.php?comparar=TUE&tag=2&comarca=ESTADUAL - PRIMEIRO GRAU&idcomarca=&lotacao=&idlotacao=&vara="
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/app/open/proc/view/view.php",
+    "descricao": "Quinta, Junho 20, 2024                                   !   Estatísticas Processuais   \\ Clique no Mapa e selecione uma comarca. -------------------------------------------------------------------------  !        Tribunal de Justiça do Estado do Amapá   Rua General Rondon, 1295, Centro, 68900-911, Macapá - Amapá - Brasil   Horário de Atendimento: 07:30h às 14:30h Fone. +55 (96) 3312-3300      Copyright © 2024 - Todos os direitos reservados   Template by RocketTheme  !                  ]( )      !         Processos com Réus Presos Provisoriamente         Sentença Não Transitada em Julgado:          Sem Sentença Proferida:               !         ÍNDICE DE ATENDIMENTO À DEMANDA: 6.51  TEMPO MÉDIO DE DURAÇÃO DOS PROCESSOS: 393.42           "
+}

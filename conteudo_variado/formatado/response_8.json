@@ -1,0 +1,19 @@
+{
+    "opcao_menu": "Dje",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Tucujuris",
+            "link": "https://tucujuris.tjap.jus.br/tucujuris/pages/home/home.html"
+        },
+        {
+            "opcao_submenu": "Fazer um comentário",
+            "link": "https://tucujuris.tjap.jus.br/tucujuris/pages/feedback/feedback.html \"Fazer um comentário\""
+        },
+        {
+            "opcao_submenu": "Visitante",
+            "link": "https://tucujuris.tjap.jus.br/tucujuris/pages/login/login.html"
+        }
+    ],
+    "sourceURL": "http://services.tjap.jus.br/dje/consulta",
+    "descricao": "                     Atenção  Http failure response for https://tucujuris.tjap.jus.br/api/dje/buscar-ultimos-diarios: 0 Unknown Error  Loading...  Loading...        Transferências ativas  DJE ConsultaDiário da Justiça Eletrônico ========================================  Macapá, 20 de junho de 2024  Pesquisar Busca Avançada  Nº do DJEEx: 001/2016  Nº processo  Nome da parte  Palavras chavePara buscar uma frase exata coloque-a entre aspas. Exemplo \"HABEAS CORPUS\"  Périodo de  Até  Verificando sua identidade...  Fechar Filtrar Limpar campos  Acesso rápido \\[Últimas edições disponíveis\\]  | Número | Data da divulgação | Arquivo | | --- | --- | --- |"
+}

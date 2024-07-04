@@ -1,0 +1,123 @@
+{
+    "opcao_menu": "Criminal",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Portal",
+            "link": "https://old.tjap.jus.br/portal/"
+        },
+        {
+            "opcao_submenu": "Cível",
+            "link": "https://old.tjap.jus.br/portal/cível.html"
+        },
+        {
+            "opcao_submenu": "Criminal",
+            "link": "https://old.tjap.jus.br/portal/criminal.html"
+        },
+        {
+            "opcao_submenu": "Execuções Penais",
+            "link": "https://old.tjap.jus.br/portal/execuções-penais.html"
+        },
+        {
+            "opcao_submenu": "Execução de Penas e Medidas Alternativas",
+            "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas.html"
+        },
+        {
+            "opcao_submenu": "Central de Garantias e Execução de Penas e Medidas Alternativas",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Apresentação",
+            "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-3.html"
+        },
+        {
+            "opcao_submenu": "Composição",
+            "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-4.html"
+        },
+        {
+            "opcao_submenu": "Edital para apresentação de Projetos Sociais",
+            "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-5.html"
+        },
+        {
+            "opcao_submenu": "Legislação",
+            "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-6.html"
+        },
+        {
+            "opcao_submenu": "Prestação de Contas",
+            "link": "https://old.tjap.jus.br/portal/execução-de-penas-e-medidas-alternativas-2/execução-de-penas-e-medidas-alternativas-7.html"
+        },
+        {
+            "opcao_submenu": "Execuções Fiscais",
+            "link": "https://old.tjap.jus.br/portal/execuções-fiscais.html"
+        },
+        {
+            "opcao_submenu": "Família e Sucessões",
+            "link": "https://old.tjap.jus.br/portal/família-e-sucessões.html"
+        },
+        {
+            "opcao_submenu": "Fazenda Pública",
+            "link": "https://old.tjap.jus.br/portal/fazenda-pública.html"
+        },
+        {
+            "opcao_submenu": "Infância e Juventude",
+            "link": "https://old.tjap.jus.br/portal/infância-e-juventude.html"
+        },
+        {
+            "opcao_submenu": "Justiça Restaurativa",
+            "link": "https://old.tjap.jus.br/portal/justica-restaurativa.html"
+        },
+        {
+            "opcao_submenu": "Resoluções CNJ",
+            "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-2.html"
+        },
+        {
+            "opcao_submenu": "Portarias",
+            "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-8.html"
+        },
+        {
+            "opcao_submenu": "Seminários",
+            "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-3.html"
+        },
+        {
+            "opcao_submenu": "Práticas Restaurativas",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Comitê",
+            "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-5.html"
+        },
+        {
+            "opcao_submenu": "Capacitação",
+            "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-6.html"
+        },
+        {
+            "opcao_submenu": "Projetos",
+            "link": "https://old.tjap.jus.br/portal/justica-restaurativa/justica-restaurativa-7.html"
+        },
+        {
+            "opcao_submenu": "Juizados Especiais",
+            "link": "https://old.tjap.jus.br/portal/juizados-especiais-ii.html"
+        },
+        {
+            "opcao_submenu": "Violência Doméstica",
+            "link": "https://old.tjap.jus.br/portal/violência-doméstica.html"
+        },
+        {
+            "opcao_submenu": "Falências e Recuperações Judiciais",
+            "link": "https://old.tjap.jus.br/portal/falências-e-recuperações-judiciais.html"
+        },
+        {
+            "opcao_submenu": "Central Psicossocial",
+            "link": "https://old.tjap.jus.br/portal/centralpsicossocial.html"
+        },
+        {
+            "opcao_submenu": "Projeto A-PRÓPRIA-AÇÃO DE VIDA",
+            "link": "https://old.tjap.jus.br/portal/centralpsicossocial/a-propria-acao-de-vida.html"
+        },
+        {
+            "opcao_submenu": "→Boletim Interno",
+            "link": "https://sig.tjap.jus.br/publicacoes/mdgridpublicacoespublica.php"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/criminal.html",
+    "descricao": "  ×             Especialidades                                                                                                                                                                                                                                                                                                                                                        Criminal --------  As Varas Criminais julgam crimes e outras infrações tipificadas no Código Penal Brasileiro-CPB e nas demais leis, de acordo com a Constituição Federal. Quem for vítima ou tiver conhecimento de algum crime deve procurar a polícia ou o Ministério Público que terão o papel de investigar e fazer a denúncia ao juiz a quem caberá decidir pela abertura da ação penal . Se for dada continuidade ao processo, o juiz zelará pelo correto andamento da ação e ao final decidirá pela culpa ou inocência do réu - sentença que caberá ao Tribunal do Juri nos casos de crimes dolosos contra a vida.     Execução Penal                 IAPEN - Instituto de Administração Penal do Amapá                       CONTRAP - Coordenadoria de Tratamento Penal                                                 CEP - Coordenadoria de Execução Penal  "
+}

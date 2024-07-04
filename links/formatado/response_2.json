@@ -1,0 +1,135 @@
+{
+    "opcao_menu": "Ouvidoria",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Portal da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia.html \"Portal da Transparência\""
+        },
+        {
+            "opcao_submenu": "Apresentação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao.html \"Apresentação\""
+        },
+        {
+            "opcao_submenu": "Modelo de Informações",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/modelo-de-informacoes.html \"Modelo de Informações\""
+        },
+        {
+            "opcao_submenu": "Atos Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/atos-transparencia.html \"Atos Transparência \""
+        },
+        {
+            "opcao_submenu": "Ranking da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/ranking-da-transparencia.html \"Ranking da Transparência\""
+        },
+        {
+            "opcao_submenu": "Transparência Pública",
+            "link": "https://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html"
+        },
+        {
+            "opcao_submenu": "Gestão",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-estrategica.html \"Gestão\""
+        },
+        {
+            "opcao_submenu": "Audiências e Sessões",
+            "link": "https://www.tjap.jus.br/portal/transparencia/audiencias-e-sessoes.html \"Audiências e Sessões\""
+        },
+        {
+            "opcao_submenu": "Serviço de Informações ao Cidadão",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sic.html \"Serviço de Informações ao Cidadão\""
+        },
+        {
+            "opcao_submenu": "Ouvidoria",
+            "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html \"Ouvidoria\""
+        },
+        {
+            "opcao_submenu": "Tecnologia da Informação e Comunicação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/tic.html \"Tecnologia da Informação e Comunicação\""
+        },
+        {
+            "opcao_submenu": "Gestão Orçamentária e Financeira",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-orcamentaria.html \"Gestão Orçamentária e Financeira\""
+        },
+        {
+            "opcao_submenu": "Licitações, Contratos e Instrumentos de Cooperação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/licitacoes-contratos-e-instrumentos-de-cooperacao.html \"Licitações, Contratos e Instrumentos de Cooperação\""
+        },
+        {
+            "opcao_submenu": "Gestão de Pessoas",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-pessoas.html \"Gestão de Pessoas\""
+        },
+        {
+            "opcao_submenu": "Auditoria e Prestação de Contas",
+            "link": "https://www.tjap.jus.br/portal/transparencia/auditoria-e-prestacao-de-contas.html \"Auditoria e Prestação de Contas\""
+        },
+        {
+            "opcao_submenu": "Sustentabilidade e Acessibilidade",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html \"Sustentabilidade e Acessibilidade\""
+        },
+        {
+            "opcao_submenu": "Acessibilidade",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html \"Acessibilidade\""
+        },
+        {
+            "opcao_submenu": "Início",
+            "link": "https://www.tjap.jus.br/portal/"
+        },
+        {
+            "opcao_submenu": "Portal da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia.html"
+        },
+        {
+            "opcao_submenu": "16-03diaOuvidor2.jpeg",
+            "link": "https://old.tjap.jus.br/portal/images/03052021corregedoria/desembargadoragostino.png"
+        },
+        {
+            "opcao_submenu": "ouvidora.jpg",
+            "link": "https://old.tjap.jus.br/portal/images/ouvidora.jpg"
+        },
+        {
+            "opcao_submenu": "Balcão Virtual Ouvidoria TJAP",
+            "link": "https://us02web.zoom.us/my/ouvidoriatjap"
+        },
+        {
+            "opcao_submenu": "Whatsapp: (96) 98412-5301",
+            "link": "https://api.whatsapp.com/message/CE2OREC3R3I6B1"
+        },
+        {
+            "opcao_submenu": "Formulário Eletrônico",
+            "link": "https://sig.tjap.jus.br/formouvidoriamanifestacao/formouvidoriamanifestacao.php"
+        },
+        {
+            "opcao_submenu": "Canais de Acesso",
+            "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html?view=article&id=1814"
+        },
+        {
+            "opcao_submenu": "Atribuições",
+            "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html?view=article&id=1812"
+        },
+        {
+            "opcao_submenu": "Regulamentação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html?view=article&id=1815"
+        },
+        {
+            "opcao_submenu": "Tribunal de Justiça do Estado do Amapá",
+            "link": "https://www.tjap.jus.br/portal/images/imagens/portal/tjap-footer-ouro-2023.png"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.facebook.com/pages/tjap/215744231796241"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://twitter.com/tjapoficial"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.youtube.com/user/TJAPNoticias"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://instagram.com/tjap.oficial"
+        }
+    ],
+    "sourceURL": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html",
+    "descricao": "                                                                                                                                                                                                                                                                                                                    OuvidoriaOuvidoria---------“A Justiça precisa ouvir o cidadão. Não podemos deixá-lo sem um canal acessível de comunicação e de resposta, já que é ele o destinatário dos serviços do Judiciário. E nossa maior preocupação é justamente com o jurisdicionado que vê na Justiça, muitas das vezes, a única esperança de reparação de seus direitos”.                        !                                                                !                                                     Desembargador Agostino Silvério                                   Juíza Elayne Cantuária                  Ouvidor Geral do TJAP                                      Ouvidora Substituta e da Mulher                                                                                                                                                                              Registro de Denúncias e Reclamações     Acompanhamento e avaliação de denúncias e reclamações               !"
+}

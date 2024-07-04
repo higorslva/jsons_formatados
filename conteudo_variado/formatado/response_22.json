@@ -1,0 +1,47 @@
+{
+    "opcao_menu": "Tribunal de justiça do Estado do Amapá",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "![",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/img/brasao-tj.png"
+        },
+        {
+            "opcao_submenu": "Brasão da justiça",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/img/brasao-tj.jpg"
+        },
+        {
+            "opcao_submenu": "súmulas",
+            "link": "http://www.tjap.jus.br/portal/consultas/sumulas.html"
+        },
+        {
+            "opcao_submenu": "Consulta",
+            "link": " filtro"
+        },
+        {
+            "opcao_submenu": "Resultado",
+            "link": " resultado"
+        },
+        {
+            "opcao_submenu": "Detalhes do acórdão Nº",
+            "link": " detalhe"
+        },
+        {
+            "opcao_submenu": "Súmulas",
+            "link": "http://www.tjap.jus.br/portal/consultas/sumulas.html"
+        },
+        {
+            "opcao_submenu": "mais opções",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "limpar campos",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Voltar ao topo",
+            "link": " main-content"
+        }
+    ],
+    "sourceURL": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-jurisprudencia/consultar-jurisprudencia.html",
+    "descricao": "  Tribunal de Justiça do Estado do Amapá TJAP](../home/home.html)  !  PODER JUDICIÁRIO   TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ   Sistema de gestão processual eletrônico  Jurisprudência Extrajudicial ============================  Você também tem acesso as  .  Banco de dados atualizado em: h.                                           Órgão Julgador  Todos Tribunal Turma recursal  Número unico da justiça   Pesquisa Livre  Utilize aspas para pesquisar por um termo exato. Ex.: \"Habeas Corpus\"  Usar palavras exatas   Marque esta caixa para encontrar palavras exatas na busca livre  Número do Acórdão     Número/Ano   Números e Barra, Ano com quatro digitos, ex: 001858/1999  Classe  Origem  Relator  Secretaria  Votação Selecione uma votação Unânime Maioria  Pesquisar   Acórdão Nº  Processo Nº  Relator:  Secretaria:  Publicado no DJE Nº  em  Ementa:  Selecionar texto  mostrar detalhado      Mais resultados  Acórdão Nº  Processo Nº  Relator:       Ementa       Acórdão       Teor do Ato  "
+}

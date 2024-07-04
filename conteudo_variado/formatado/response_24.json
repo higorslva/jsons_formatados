@@ -1,0 +1,251 @@
+{
+    "opcao_menu": "Indisponibilidade de Sistemas",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Topo",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "PJe Processo Judicial Eletrônico",
+            "link": "https://old.tjap.jus.br/portal/pje"
+        },
+        {
+            "opcao_submenu": "Tucujuris",
+            "link": "https://tucujuris.tjap.jus.br/"
+        },
+        {
+            "opcao_submenu": "PJeDOC",
+            "link": "https://sig.tjap.jus.br/autenticamd"
+        },
+        {
+            "opcao_submenu": "Diário da Justiça Eletrônico",
+            "link": "https://services.tjap.jus.br/dje/consulta"
+        },
+        {
+            "opcao_submenu": "Atos Normativos",
+            "link": "https://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
+        },
+        {
+            "opcao_submenu": "Sistema de Chamados",
+            "link": "https://sig.tjap.jus.br/autenticasosV2/autenticasosV2.php"
+        },
+        {
+            "opcao_submenu": "![Tribunal de Justiça do Estado do Amapá",
+            "link": "https://old.tjap.jus.br/portal/templates/tjapnewlogo/images/logo-tjap-new.png"
+        },
+        {
+            "opcao_submenu": "Balcão Virtual",
+            "link": "https://old.tjap.jus.br/portal/atendimento/balcao-virtual.html \"Balcão Virtual\""
+        },
+        {
+            "opcao_submenu": "Acesso em libras",
+            "link": "http://www.vlibras.gov.br/"
+        },
+        {
+            "opcao_submenu": "Fotos",
+            "link": "https://old.tjap.jus.br/portal/publicacoes/galeria.html"
+        },
+        {
+            "opcao_submenu": "Instagram",
+            "link": "http://instagram.com/tjap.oficial"
+        },
+        {
+            "opcao_submenu": "Youtube",
+            "link": "http://www.youtube.com/user/TJAPNoticias"
+        },
+        {
+            "opcao_submenu": "Twitter",
+            "link": "http://twitter.com/tjapoficial"
+        },
+        {
+            "opcao_submenu": "Facebook",
+            "link": "http://www.facebook.com/pages/tjap/215744231796241"
+        },
+        {
+            "opcao_submenu": "Gestão Processual",
+            "link": "/gestaojud"
+        },
+        {
+            "opcao_submenu": "Gestão Administrativa",
+            "link": "/gestaoadm"
+        },
+        {
+            "opcao_submenu": "Intranet",
+            "link": "https://old.tjap.jus.br/portal/intranet"
+        },
+        {
+            "opcao_submenu": "Webmail",
+            "link": "http://mail.tjap.jus.br/"
+        },
+        {
+            "opcao_submenu": "Início",
+            "link": "https://old.tjap.jus.br/portal/"
+        },
+        {
+            "opcao_submenu": "Tucujuris",
+            "link": "https://old.tjap.jus.br/portal/tucujuris.html"
+        },
+        {
+            "opcao_submenu": "histórico",
+            "link": "https://old.tjap.jus.br/portal/histórico.html"
+        },
+        {
+            "opcao_submenu": "Documentos",
+            "link": "https://old.tjap.jus.br/portal/documentos.html"
+        },
+        {
+            "opcao_submenu": "Tecnologia",
+            "link": "https://old.tjap.jus.br/portal/tecnologia.html"
+        },
+        {
+            "opcao_submenu": "Perguntas frequentes (FAQ)",
+            "link": "/app/open/tucujuris/?task=faqs"
+        },
+        {
+            "opcao_submenu": "Sobre",
+            "link": "https://old.tjap.jus.br/portal/sobre.html"
+        },
+        {
+            "opcao_submenu": "Tucujuris Web",
+            "link": "http://tucujuris.tjap.jus.br/"
+        },
+        {
+            "opcao_submenu": "DJE Consulta",
+            "link": "http://services.tjap.jus.br/dje/consulta"
+        },
+        {
+            "opcao_submenu": "DJE Editor/Publicador",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/login/"
+        },
+        {
+            "opcao_submenu": "Localização de Juizes",
+            "link": "https://old.tjap.jus.br/app/open/juizes/organograma.php"
+        },
+        {
+            "opcao_submenu": "Consulta de Processos",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-processo/consultar-processo.html"
+        },
+        {
+            "opcao_submenu": "BacenJud",
+            "link": "https://old.tjap.jus.br/portal/bacenjud.html"
+        },
+        {
+            "opcao_submenu": "Malote Digital",
+            "link": "https://old.tjap.jus.br/portal/malote-digital.html"
+        },
+        {
+            "opcao_submenu": "RenaJud",
+            "link": "https://old.tjap.jus.br/portal/renajud.html"
+        },
+        {
+            "opcao_submenu": "SerasaJud",
+            "link": "https://old.tjap.jus.br/portal/serasajud.html"
+        },
+        {
+            "opcao_submenu": "Processômetro",
+            "link": "http://old.tjap.jus.br/app/open/proc/view/view.php"
+        },
+        {
+            "opcao_submenu": "Situação Processual 2º Grau",
+            "link": "https://old.tjap.jus.br/portal/produtividade-2g.html"
+        },
+        {
+            "opcao_submenu": "Audiência de Custódia - CNJ",
+            "link": "https://www.cnj.jus.br/corporativo/"
+        },
+        {
+            "opcao_submenu": "Indisponibilidade de Sistemas",
+            "link": "https://old.tjap.jus.br/portal/indisponibilidade-de-sistemas.html"
+        },
+        {
+            "opcao_submenu": "Sistemas Conveniados",
+            "link": "https://old.tjap.jus.br/portal/sistemas-conveniados.html"
+        },
+        {
+            "opcao_submenu": "CCS-Bacen",
+            "link": "https://old.tjap.jus.br/portal/ccs-bacen.html"
+        },
+        {
+            "opcao_submenu": "SISBAJUD - Sistema de Busca de Ativos do Poder Judiciário",
+            "link": "https://old.tjap.jus.br/portal/sisbajud.html"
+        },
+        {
+            "opcao_submenu": "INFOJUD - Sistema de Informações ao Judiciário",
+            "link": "https://old.tjap.jus.br/portal/infojud.html"
+        },
+        {
+            "opcao_submenu": "CNIB - Central Nacional de Indisponibilidade de Bens",
+            "link": "https://old.tjap.jus.br/portal/cnib.html"
+        },
+        {
+            "opcao_submenu": "SIEL - Sistema de Informações Eleitorais",
+            "link": "https://old.tjap.jus.br/portal/siel.html"
+        },
+        {
+            "opcao_submenu": "Comissão de Informatização",
+            "link": "https://old.tjap.jus.br/portal/comissão-de-informatização.html"
+        },
+        {
+            "opcao_submenu": "Secretaria de Gestão Processual",
+            "link": "https://old.tjap.jus.br/portal/secretaria-de-gestão-processual.html"
+        },
+        {
+            "opcao_submenu": "Divisão de Sistemas Judiciários",
+            "link": "https://old.tjap.jus.br/portal/divisão-de-sistemas-judiciários.html"
+        },
+        {
+            "opcao_submenu": "Suporte Técnico",
+            "link": "https://old.tjap.jus.br/portal/suporte-técnico.html"
+        },
+        {
+            "opcao_submenu": "![Selo Ouro CNJ",
+            "link": "https://old.tjap.jus.br/portal/images/stories/selo-ouro-2020.png?force"
+        },
+        {
+            "opcao_submenu": "![Selo 28 Anos TJAP",
+            "link": "https://old.tjap.jus.br/portal/images/stories/selo30anostjap.png?force"
+        },
+        {
+            "opcao_submenu": "![Sessões online",
+            "link": "https://old.tjap.jus.br/portal/images/stories/sessoes-online.png?force"
+        },
+        {
+            "opcao_submenu": "![Parceiros Digitais",
+            "link": "https://old.tjap.jus.br/portal/images/stories/parceiro-digital.png"
+        },
+        {
+            "opcao_submenu": "Conheça nossa Política de Privacidade, Cookies e a Lei Geral de Proteção de Dados Pessoais - LGPD",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "![Gestão participativa",
+            "link": "https://old.tjap.jus.br/portal/images/banner-gestao-participativa.jpg"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "data:image/png;base64,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"
+        },
+        {
+            "opcao_submenu": "Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.",
+            "link": "https://vlibras.gov.br/app//assets/accessicon.svg"
+        },
+        {
+            "opcao_submenu": "Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.",
+            "link": "https://vlibras.gov.br/app//assets/accesspopup.jpg"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://old.tjap.jus.br/lib/img/scriptcaseNMajaxload.gif"
+        },
+        {
+            "opcao_submenu": "...",
+            "link": "https://old.tjap.jus.br/lib/img/scriptcaseNMminimalistcalendar.png%20%22...%22"
+        },
+        {
+            "opcao_submenu": "...",
+            "link": "https://old.tjap.jus.br/lib/img/scriptcaseNMminimalistcalendar.png%20%22...%22"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/indisponibilidade-de-sistemas.html",
+    "descricao": "  ×  O Presidente do Tribunal de Justiça do Estado do Amapá informa que a partir do dia 12 de janeiro de 2023 o sistema PJe será expandido para novos processos dos Juizados Especiais Cíveis da Comarca de Macapá, conforme Atos Conjuntos nº 564/2020-GP/CGJ, 643/2022-GP/CGJ e a Portaria nº 67516/2023-GP.                                                         ](https://www.tjap.jus.br/portal)              Pesquisar...           Pesquisar                                                                                                                                                                                                                                                                                                                                                                                                Tribunal de Justiça do Estado do Amapá - CNPJ 34.870.576/0001-21   Rua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP   Fone 55 96 3312-3300. Horário de Atendimento ao público: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.     ](https://old.tjap.jus.br/portal/publicacoes/noticias/11475-compromisso-e-empenho-de-magistrados-e-servidores-asseguram-ouro-no-pr%C3%AAmio-cnj-de-qualidade-para-a-justi%C3%A7a-do-amap%C3%A1.html \"Selo Ouro CNJ\") ](https://old.tjap.jus.br/portal/publicacoes/noticias/11612-sess%C3%A3o-solene-que-marca-os-30-anos-da-justi%C3%A7a-re%C3%BAne-magistrados,-servidores-e-autoridades.html \"Selo 30 anos\") ](https://old.tjap.jus.br/portal/publicacoes/sessoes-online.html \"Sessões Online\") ](https://old.tjap.jus.br/portal/publicacoes/noticias/13624-parceiro-digital-programa-da-justi%C3%A7a-do-amap%C3%A1-expande-acesso-digital-ao-cidad%C3%A3o-e-ganha-as-ruas-de-macap%C3%A1.html \"Parceiro Digital\")  Entendi  O Tribunal de Justiça do Estado do Amapá utiliza cookies em seu portal e Aplicativos para controle de navegação no site e geração de informações estatísticas, os quais são armazenados apenas em caráter temporário para melhorar a experiência do usuário. Ao utilizar nossos serviços, você concorda com esse monitoramento.   ×    \\ Responda o questionário aqui!](http://www5.tjba.jus.br/gestaoparticipativa/)  !  ! !     |     | | --- | | Atenção | |     |      Processando Aguarde...   ! Processando Aguarde...  |     |     | | --- | --- | | Consulta de Ocorrências e Indisponibilidade |     |  Data InícioTodo o período Últimos 7 dias Últimos 6 meses Últimos 12 meses Últimos 18 meses Ano corrente Trimestre corrente até hoje Trimestre corrente Este mês Este mês até hoje Últimos 3 meses a partir de hoje Igual a Intervalo01/04/2024 20/06/2024  |     | | --- | | ! dd/mm/aaaa | | ! |     |     |     |     | | --- | --- | --- | |     | Pesquisa Limpar Sair |     |"
+}

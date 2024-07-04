@@ -1,0 +1,99 @@
+{
+    "opcao_menu": "Tucujuris - Tribunal de justiça do Estado do Amapá",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Tucujuris",
+            "link": "../home/home.html"
+        },
+        {
+            "opcao_submenu": "Brasão da justiça",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/img/brasao-tj.jpg"
+        },
+        {
+            "opcao_submenu": "Clique aqui!",
+            "link": "https://sig.tjap.jus.br/agendacontrolnumerocnj/"
+        },
+        {
+            "opcao_submenu": "Consulta",
+            "link": " form-consulta"
+        },
+        {
+            "opcao_submenu": "Resultado",
+            "link": " resultado-consulta"
+        },
+        {
+            "opcao_submenu": "Processo",
+            "link": " detalhe-processo"
+        },
+        {
+            "opcao_submenu": "descobrir o número único da justiça",
+            "link": "../recuperar-numero-unico/recuperar-numero-unico.html"
+        },
+        {
+            "opcao_submenu": "aqui",
+            "link": "../consultar-processo-extf/consultar-processo-extf.html"
+        },
+        {
+            "opcao_submenu": "Consulta avançada",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Consulta simplificada",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Ver os processos que eu acompanho",
+            "link": "../push/push.html"
+        },
+        {
+            "opcao_submenu": "",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Mais processos...",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Peticionar nesse processo",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Cadastrar-se",
+            "link": "../credenciamento/credenciamento.html"
+        },
+        {
+            "opcao_submenu": "Já tenho cadastro",
+            "link": "../login/login.html"
+        },
+        {
+            "opcao_submenu": "Sim",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Administrar processos que eu acompanho",
+            "link": "../push/push.html"
+        },
+        {
+            "opcao_submenu": "Cadastrar e-mail",
+            "link": "../perfil/perfil.html"
+        },
+        {
+            "opcao_submenu": "Administrar processos que eu acompanho",
+            "link": "../push/push.html"
+        },
+        {
+            "opcao_submenu": "Parar de receber",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Administrar processos que eu acompanho",
+            "link": "../push/push.html"
+        },
+        {
+            "opcao_submenu": "Voltar ao topo",
+            "link": " main-content"
+        }
+    ],
+    "sourceURL": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-processo/consultar-processo.html",
+    "descricao": "Tucujuris      Precisamos confirmar suas credênciais  Por favor digite sua senha  Confirmar    !  PODER JUDICIÁRIO   TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ   Tucujuris - Sistema de gestão processual eletrônico         Você sabia que a conciliação é um direito seu?! Agende uma sessão e venha dialogar a solução do seu processo.  Consultar processo ==================  Você pode consultar os processos usando um dos parâmetros ou uma combinação deles.                                  Nº do processo   Se a sua ação foi ajuizada até 2009 e você tem apenas o número de distribuição ou número de tombo, pode usa-los para  . Processos ajuízados até 1988 estão disponíveis  .  Nº de distribuição  O número de distribuição se apresenta no formato NNNNNN/AAAA  Nome da parte  Não serão mostrados os processos que tramitam em segredo de justiça  CPF/CNPJ da parte  Não serão mostrados os processos que tramitam em segredo de justiça  OAB  Exemplo: 1234AP  Nome do advogado   Nº da carta precatória  Número do processo de origem da carta precatória  Situação do processo   em andamento arquivado todos              Nenhum resultado encontrado para consulta  Você usou os parametros:     Nº do processo:    Nº de distribuição:    Nome da parte:    Nº do CPF ou CNPJ da parte:    Nº da OAB do advogado:    Nome do advogado:    Nº da carta precatória:    Situação: PROCESSO EM ANDAMENTO    Situação: PROCESSO ARQUIVADO    Situação: PROCESSOS EM ANDAMENTO OU ARQUIVADOS  Ir para consulta        Cadastre-se para receber notificações sobre a movimentação deste processo.      Você quer receber as notificações de movimentação desse processo?      Você precisa cadastrar um endereço de email para receber notificações.      As notificações de movimentação desse processo são enviadas para todas contas de email que você tem cadastradas.      "
+}

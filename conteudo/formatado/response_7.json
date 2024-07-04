@@ -1,0 +1,83 @@
+{
+    "opcao_menu": "Custas Processuais",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Início",
+            "link": "https://old.tjap.jus.br/portal/"
+        },
+        {
+            "opcao_submenu": "Custas Processuais",
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral.html"
+        },
+        {
+            "opcao_submenu": "Custas Iniciais",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/emitir-guia-custa/?tipo=INICIAL"
+        },
+        {
+            "opcao_submenu": "Custas Incidentais/Complementares",
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral/2015-12-31-20-20-26.html"
+        },
+        {
+            "opcao_submenu": "Preparo Tribunal",
+            "link": "https://tucujuris.tjap.jus.br/tucujuris/pages/emitir-guia-custa/?tipo=PREPARO TRIBUNAL"
+        },
+        {
+            "opcao_submenu": "Preparo Juizados",
+            "link": "https://tucujuris.tjap.jus.br/tucujuris/pages/emitir-guia-custa/?tipo=PREPARO JUIZADOS"
+        },
+        {
+            "opcao_submenu": "Depósitos Judiciais",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Guia de depósito",
+            "link": "https://www.bb.com.br/pbb/pagina-inicial/setor-publico/judiciario/depositos-judiciais /"
+        },
+        {
+            "opcao_submenu": "Manual",
+            "link": "//www.bb.com.br/portalbb/page83,112,5009,15,0,1,3.bb?codigoNoticia=29154&codigoMenu=853&codigoRet=15514&bread=324"
+        },
+        {
+            "opcao_submenu": "Emissão de Guias",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Sistema de Acréscimos Legais - SAL (Previdenciário)",
+            "link": "https://old.tjap.jus.br/portal/emissao-guias-tjap/emissao-guias-tjap-2.html"
+        },
+        {
+            "opcao_submenu": "Carnê-Leão (emissão de DARF para IR)",
+            "link": "https://old.tjap.jus.br/portal/emissao-guias-tjap/emissao-guias-tjap-3.html"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://old.tjap.jus.br/portal/images/stories/legislacao/leis/leiordinaria23862018.pdf"
+        },
+        {
+            "opcao_submenu": "Dúvidas Frequentes 2020",
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral/20-tjap/portal/publicacoes/custas-em-geral/10188-dúvidas-frequentes-2020.html"
+        },
+        {
+            "opcao_submenu": "Dúvidas Frequentes 2019",
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral/20-tjap/portal/publicacoes/custas-em-geral/10187-dúvidas-frequentes-2019.html"
+        },
+        {
+            "opcao_submenu": "Legislação Estadual",
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral/20-tjap/portal/publicacoes/custas-em-geral/10197-custas-em-geral-2.html"
+        },
+        {
+            "opcao_submenu": "Provimentos CGJ/TJAP",
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral/20-tjap/portal/publicacoes/custas-em-geral/10198-custas-em-geral-3.html"
+        },
+        {
+            "opcao_submenu": "Atos Conjuntos GP/CGJ",
+            "link": "https://old.tjap.jus.br/portal/custas-em-geral/20-tjap/portal/publicacoes/custas-em-geral/10199-custas-em-geral-4.html"
+        },
+        {
+            "opcao_submenu": "Início",
+            "link": "https://old.tjap.jus.br/portal/"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/custas-em-geral.html",
+    "descricao": "  ×                                                                                                                                                                       Custas em Geral ---------------    -----------------------------------------------------------------------    ---------------------------------------------------------------------------------------------------------------------------------  \\- Regras válidas para processos distribuídos a partir de 01/01/2020.     ----------------------------------------------------------------------------------------------------------------------------------  \\- Regras válidas para processos distribuídos até 31/12/2019.     ------------------------------------------------------------------------------------------------------------------------    ------------------------------------------------------------------------------------------------------------------------    -------------------------------------------------------------------------------------------------------------------------             ["
+}

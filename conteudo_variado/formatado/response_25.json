@@ -1,0 +1,23 @@
+{
+    "opcao_menu": "Tribunal de Justiça do Amapá :: Usuários :: Autenticação",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Entrar",
+            "link": "./?task=auth"
+        },
+        {
+            "opcao_submenu": "![TJAP",
+            "link": "https://old.tjap.jus.br/app/lib/imagens/24/card-address.png"
+        },
+        {
+            "opcao_submenu": "Voltar",
+            "link": "https://old.tjap.jus.br/app/lib/imagens/16/arrow-180.png"
+        },
+        {
+            "opcao_submenu": "Imprimir",
+            "link": "https://old.tjap.jus.br/app/lib/imagens/16/printer.png"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/intranet.html",
+    "descricao": "     Carregando ferramentas...  Este processo pode demorar um pouco, e quando estiver terminado sua tela será liberada.  Não autenticado       Autenticação](./)  ==================================================================  Você deva ativar o recurso de javascript  copyright © Tribunal de Justiça do Amapá  !!"
+}

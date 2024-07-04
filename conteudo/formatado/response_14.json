@@ -1,0 +1,131 @@
+{
+    "opcao_menu": "Comarcas",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Lista de Ramais Unidades",
+            "link": "https://sig.tjap.jus.br/ramais/gridunidadesramais.php"
+        },
+        {
+            "opcao_submenu": "call3.png",
+            "link": "https://old.tjap.jus.br/portal/images/call3.png"
+        },
+        {
+            "opcao_submenu": "Balcão Virtual TJAP",
+            "link": "https://old.tjap.jus.br/portal/atendimento/balcao-virtual.html"
+        },
+        {
+            "opcao_submenu": "bv.png",
+            "link": "https://old.tjap.jus.br/portal/images/bv.png"
+        },
+        {
+            "opcao_submenu": "presidencia@tjap.jus.br",
+            "link": "mailto:presidencia@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/9260-sede-do-tribunal-de-justiça-do-amapá.html"
+        },
+        {
+            "opcao_submenu": "diretoria.forum@tjap.jus.br",
+            "link": "mailto:diretoria.forum@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/25-comarca-de-macapa.html"
+        },
+        {
+            "opcao_submenu": "dir.stn@tjap.jus.br",
+            "link": "mailto:dir.stn@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/24-comarca-de-santana.html"
+        },
+        {
+            "opcao_submenu": "dir.ljari@tjap.jus.br",
+            "link": "mailto:dir.ljari@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/23-comarca-de-laranjal-do-jari.html"
+        },
+        {
+            "opcao_submenu": "dir.opq@tjap.jus.br",
+            "link": "mailto:dir.opq@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/22-comarca-de-oiapoque.html"
+        },
+        {
+            "opcao_submenu": "varaunica.ferreiragomes@tjap.jus.br",
+            "link": "mailto:varaunica.ferreiragomes@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/21-comarca-de-ferreira-gomes.html"
+        },
+        {
+            "opcao_submenu": "vu.porto@tjap.jus.br",
+            "link": "mailto:vu.porto@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/20-comarca-de-porto-grande.html"
+        },
+        {
+            "opcao_submenu": "vu.mazagao@tjap.jus.br",
+            "link": "mailto:vu.mazagao@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/19-comarca-de-mazagao.html"
+        },
+        {
+            "opcao_submenu": "varaunica.amapa@tjap.jus.br",
+            "link": "mailto:varaunica.amapa@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/279-comarca-de-amapa-2.html"
+        },
+        {
+            "opcao_submenu": "varaunica.tartarugalzinho@tjap.jus.br",
+            "link": "mailto:varaunica.tartarugalzinho@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/17-comarca-de-tartarugalzinho.html"
+        },
+        {
+            "opcao_submenu": "vu.vitoria@tjap.jus.br",
+            "link": "mailto:vu.vitoria@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/16-comarca-de-vitoria-do-jari.html"
+        },
+        {
+            "opcao_submenu": "vu.calcoene@tjap.jus.br",
+            "link": "mailto:vu.calcoene@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/15-comarca-de-calcoene.html"
+        },
+        {
+            "opcao_submenu": "vu.pedra@tjap.jus.br",
+            "link": "mailto:vu.pedra@tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Leia mais...",
+            "link": "https://old.tjap.jus.br/portal/informações-institucionais/comarcas2/1066-pedra-branca-do-amapari.html"
+        },
+        {
+            "opcao_submenu": "Início",
+            "link": "https://old.tjap.jus.br/portal/"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/home/comarcas.html",
+    "descricao": "  ×         Sede do Tribunal de Justiça do Amapá ------------------------------------      ! -----------------------------------------------------------------------------------------------------------------------------           ! -------------------------------------------------------------------------------------------------------       Horário de Atendimento ao público em todas as unidades: 07h30min às 14h30min de segunda a sexta-feira, exceto nos feriados.  Rua General Rondon, 1295, Centro, CEP 68900-911, Macapá / AP   Fone (96) 3312-3300   E-mail:        Comarca de Macapá -----------------       Fórum Des. Benedito Antônio Leal de Mira  Diretora do Fórum: LAURA COSTEIRA ARAUJO DE OLIVEIRA   Av. Fab, 1737, Centro   68906-906 - Macapá - AP   Email:     Fone: (96) 3312 3580   Horário de atendimento ao público: 07h30 às 14hs30    Comarca de Santana ------------------  Fórum da Comarca de Santana ---------------------------       Diretora do Fórum: ALINE CONCEIÇÃO CARDOSO DE ALMEIRA PEREZ  Rua Cláudio Lúcio Monteiro, 900, Centro   68925-000 - Santana - AP   Email:     Fone: (096) 3312-4260   Fax: (096) 3312-4268   Horário de atendimento ao público: 07h30 às 14hs30    Comarca de Laranjal do Jari ---------------------------      Fórum da Comarca de Laranjal do Jari - Justiça 100% Digital    Diretor do Fórum: ANTÔNIO JOSÉ DE MENEZES   Av. Tancredo Neves, S/N, Agreste 68920-000 - Laranjal do Jari - AP   Fone: (096) 3621-1166 / 3621-1358 / 3621-1463 - Email:     3621-1488 / 3621-1526 / 3621-1980 / celular ou whatsapp: (96) 98412-3328   Horário de atendimento ao público: 07h30 às 14hs30    Comarca de Oiapoque -------------------      Fórum da Comarca de Oiapoque        Diretor do Fórum: ROBERVAL PANTOJA PACHECO  Diretor do Fórum: SIMONE MORAES DOS SANTOS   Av. Barão do Rio Branco, 17, Centro   68980-000 - Oiapoque - AP   Fone. (096) 3521- 2576 (Diretoria) - Email:     (096) 9126-3806 (Diretoria)   3521 - 2586 (1a Vara)   3521 - 2552 (2a Vara)   Horário de atendimento ao público: 07h30 às 14hs30    Comarca de Ferreira Gomes -------------------------      Vara Única da Comarca de Ferreira Gomes - Justiça 100% Digital  Juíza Titular e Diretor: FABIANA DA SILVA OLIVEIRA   Chefe de Secretaria: Rafaelle de Castro Gomes   Rua Duque de Caxias, S/N, Centro - 68915-000 - Ferreira Gomes - AP   Email:     Fone. (096) 3326-1132 (fixo) e (096) 3312-3300 ramal 3240   Celular/Whatsapp: (96) 9814-0106   Horário de atendimento ao público: 07h30 às 14hs30  Assessor Jurídico: Fausto de Faria Castanheira   Assessor Jurídico: Aline Borges da Silva   Assessor Jurídico: Marcos Fabrício Guedes Monteiro de Moraes      Comarca de Porto Grande -----------------------       Vara Única da Comarca de Porto Grande - Justiça 100% Digital  Juiz Titular e Diretor: FÁBIO SILVEIRA GURGEL DO AMARAL  Chefe de Secretaria:   Av. Amapá, S/N, Malvinas - Porto Grande - AP   Email:     Fone: (96) 3234-1340/2023 - Fax. 3234-1340 (Fórum) 3234-1277 (TRE)   Celular/Whatsapp: (96) 98411-8904   Horário de atendimento ao público: 07h30 às 14hs30  Assessor Jurídico: Raphael Seabra Bastos   Assessor Jurídico: Ivo Da Silva E Silva   Assessor Jurídico: Luliena Antonio Haber      Comarca de Mazagão ------------------      Vara Única da Comarca de Mazagão - Justiça 100% Digital  Juiz Titular e Diretor: LUIZ CARLOS KOPES BRANDÃO   Chefe de Secretaria: Luciene Gomes de Oliveira   Av. Intendente Alfredo Pinto, S/N, União - 68940-000 - Mazagão - AP   Email:     Fone: (096) 3271.1154 - Fax: (096) 3271.1156   Celular/Whatsapp: (96) 98411-0845   Horário de atendimento ao público: 07h30 às 14hs30  Assessor Jurídico: David da Silva Sampaio   Assessor Jurídico: Michelly de Souza Mendes      Comarca de Amapá ----------------      Vara Única da Comarca de Amapá - Justiça 100% Digital  Juiz Titular e Diretor: MARCK WILLIAM MADUREIRA DA COSTA   Chefe de Secretaria: Anibal dos Santos Dias   Praça Barão do Rio Branco, 64, Centro - 68950-000 - Amapá - AP   Email:     Fone: (96) 3241-1286 (Gabinete do Juiz)   Fone/Fax: (96) 3421.1271 (Secretaria do Juízo Comum   Fone: (96) 3421-1592 (Juizado Especial Cível e Criminal)   Celular/Whatsapp: (96) 98413-2518   Horário de atendimento ao público: 07h30 às 14hs30  Assessor Jurídico: Ivo da Silva e Silva   Assessor Jurídico: Michelle Figueiredo Pessoa Facchinetti   Assessor Jurídico: Joaquim De Jesus Picanço Neto    Comarca de Tartarugalzinho --------------------------       Vara Única da Comarca de Tartarugalzinho - Justiça 100% Digital  Juiz Titular e Diretor: HERALDO NASCIMENTO DA COSTA  Chefe de Secretaria: Janette Alencar Trindade Rodrigues   Rua Nossa Senhora do Perpétuo Socorro, S/N, Centro - 68990-000 - Tartarugalzinho - AP   Fone: (096) 3422 1390/3422 1201   Email:     Celular/Whatsapp: (96) 98407-9948   Horário de atendimento ao público: 07h30 às 14hs30  Assessor Jurídico: Simone Do Socorro Araújo De Souza     Assessor Jurídico: JEFF ESTEVAM DA COSTA COSTA     Comarca de Vitória do Jari --------------------------      Vara Única da Comarca de Vitória do Jari - Justiça 100% Digital  Juiz Titular e Diretora: ANDRÉ GONÇALVES DE MENEZES   Chefe de Secretaria: Walmir Lourenço Da Silva   Av. 15 de Maio, S/N, Centro - 68924-000 - Vitória do Jari - AP   Email:     Fone. (096) 3622-1440/1505 - Fax: 3622-1505   Celular/Whatsapp: (96) 98414-1932   Horário de atendimento ao público: 07h30 às 14hs30  Chefe de Secretaria: Walmir Lourenço Da Silva  Assessor Jurídico: Iara Gomes Brito   Assessor Jurídico: Fabíola Araújo de França      Comarca de Calçoene -------------------      Vara Única da Comarca de Calçoene - Justiça 100% Digital  Juíza Titular e Diretora: ILANA KABACZNIK LUONGO KAPAH   Chefe de Secretaria: Maria Tereza Rodrigues de Oliveira   Av. Teodoro Antônio Leal, 33, Centro - 68960-000 - Calçoene - AP   Email:     Fone: (096) 3423-1158/1228/1103 - Fax: 3423-1317- 3423-1344 –TRE/AP   Celular/Whatsapp: (96) 99126-3874   Horário de atendimento ao público: 07h30 às 14hs30  Chefe de Secretaria: Maria Tereza Rodrigues de Oliveira  Assessor Jurídico: Lara Diniz Herbster   Assessor Jurídico: Adriel Dias Braga Ribeiro      Comarca de Pedra Branca do Amapari ----------------------------------      Vara Única da Comarca de Pedra Branca do Amapari - Justiça 100% Digital  Juíz Titular e Diretor: ROBERVAL PANTOJA PACHECO   Chefe de Secretaria: Aníbal dos Santos Dias   Rua Francisco Braz, nº 517, Centro - 68.945-000 - PEDRA BRANCA DO AMAPARI - AP   Email:     Fone: (96) 3322-3822   Celular/Whatsapp: (96) 98404-4532   Horário de atendimento ao público: 07h30 às 14hs30  Assessor Jurídico: LIDIANE FONSECA SANTANA   Assessor Jurídico: TIAGO JOSE DAMASCENO FERREIRA    Postos Avançados ----------------       Serra do Navio        Jurisdição: MM. Juiz da Comarca de Pedra Branca do Amapari  Rua A-3, 602, Centro   68914-000 - Serra do Navio - AP   Diretoria do Fórum: 98402-5021 (Disponível no Horário do Expediente)   Plantão: (96) 98414-2161  Dados do IBGE         Área do Município  7.756,136 km2        População  4.850 habitantes estimada em 2014        Densidade Demográfica  0,56 hab/km2 em 2010          Índice de Desenvolvimento Humano Municipal(IDHM)  0,709 em 2010       Cutias do Araguari        Jurisdição: MM. Juiz da Comarca de Ferreira Gomes  Rua Professora Alice Pimentel, S/N, Centro   68.900-073 - CUTIAS DO ARAGUARI - AP   Fone: (96) 3325-1126           Dados do IBGE        Área do Município  2.214 km2        População Estimada para 2017  5.637 habitantes        Densidade Demográfica  2,54 hab/km2          Índice de Desenvolvimento Humano Municipal(IDHM)  0,628               Itaubal        Jurisdição: MM. Juiz da Comarca de Ferreira Gomes  Rua João Palha dos Reis, S/N, Centro   68.900-000 - ITAUBAL DO PIRIRIM - AP   Fone: (96) 3324-1173            Dados do IBGE        Área do Município  1.704 km2        População estimada para 2017  5.172 habitantes        Densidade Demográfica  3,03 hab/km2          Índice de Desenvolvimento Humano Municipal(IDHM)  0,576               Pracuúba        Jurisdição: MM. Juiz da Comarca de Amapá  Rua Francisco Teixeira, S/N, Centro   68.918-000 - PRACUÚBA - AP   Fone: (96) 3424-1217            Dados do IBGE        Área do Município  4.956 km2        População  4.404 habitantes        Densidade Demográfica  0,88 hab/km2          Índice de Desenvolvimento Humano Municipal(IDHM)  0,614 em 2010               Lourenço        Jurisdição: MM. Juiz da Comarca de Calçoene  Av José Lourenço, S/N, Centro   68.960-000 - LOURENÇO - AP   Fone: (96) 3426-1283             ["
+}

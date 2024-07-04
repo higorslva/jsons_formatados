@@ -1,0 +1,143 @@
+{
+    "opcao_menu": "Malote Digital",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Início",
+            "link": "https://old.tjap.jus.br/portal/"
+        },
+        {
+            "opcao_submenu": "Tucujuris",
+            "link": "https://old.tjap.jus.br/portal/tucujuris.html"
+        },
+        {
+            "opcao_submenu": "histórico",
+            "link": "https://old.tjap.jus.br/portal/histórico.html"
+        },
+        {
+            "opcao_submenu": "Documentos",
+            "link": "https://old.tjap.jus.br/portal/documentos.html"
+        },
+        {
+            "opcao_submenu": "Tecnologia",
+            "link": "https://old.tjap.jus.br/portal/tecnologia.html"
+        },
+        {
+            "opcao_submenu": "Perguntas frequentes (FAQ)",
+            "link": "/app/open/tucujuris/?task=faqs"
+        },
+        {
+            "opcao_submenu": "Sobre",
+            "link": "https://old.tjap.jus.br/portal/sobre.html"
+        },
+        {
+            "opcao_submenu": "Tucujuris Web",
+            "link": "http://tucujuris.tjap.jus.br/"
+        },
+        {
+            "opcao_submenu": "DJE Consulta",
+            "link": "http://services.tjap.jus.br/dje/consulta"
+        },
+        {
+            "opcao_submenu": "DJE Editor/Publicador",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/login/"
+        },
+        {
+            "opcao_submenu": "Localização de Juizes",
+            "link": "https://old.tjap.jus.br/app/open/juizes/organograma.php"
+        },
+        {
+            "opcao_submenu": "Consulta de Processos",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-processo/consultar-processo.html"
+        },
+        {
+            "opcao_submenu": "BacenJud",
+            "link": "https://old.tjap.jus.br/portal/bacenjud.html"
+        },
+        {
+            "opcao_submenu": "Malote Digital",
+            "link": "https://old.tjap.jus.br/portal/malote-digital.html"
+        },
+        {
+            "opcao_submenu": "RenaJud",
+            "link": "https://old.tjap.jus.br/portal/renajud.html"
+        },
+        {
+            "opcao_submenu": "SerasaJud",
+            "link": "https://old.tjap.jus.br/portal/serasajud.html"
+        },
+        {
+            "opcao_submenu": "Processômetro",
+            "link": "http://old.tjap.jus.br/app/open/proc/view/view.php"
+        },
+        {
+            "opcao_submenu": "Situação Processual 2º Grau",
+            "link": "https://old.tjap.jus.br/portal/produtividade-2g.html"
+        },
+        {
+            "opcao_submenu": "Audiência de Custódia - CNJ",
+            "link": "https://www.cnj.jus.br/corporativo/"
+        },
+        {
+            "opcao_submenu": "Indisponibilidade de Sistemas",
+            "link": "https://old.tjap.jus.br/portal/indisponibilidade-de-sistemas.html"
+        },
+        {
+            "opcao_submenu": "Sistemas Conveniados",
+            "link": "https://old.tjap.jus.br/portal/sistemas-conveniados.html"
+        },
+        {
+            "opcao_submenu": "CCS-Bacen",
+            "link": "https://old.tjap.jus.br/portal/ccs-bacen.html"
+        },
+        {
+            "opcao_submenu": "SISBAJUD - Sistema de Busca de Ativos do Poder Judiciário",
+            "link": "https://old.tjap.jus.br/portal/sisbajud.html"
+        },
+        {
+            "opcao_submenu": "INFOJUD - Sistema de Informações ao Judiciário",
+            "link": "https://old.tjap.jus.br/portal/infojud.html"
+        },
+        {
+            "opcao_submenu": "CNIB - Central Nacional de Indisponibilidade de Bens",
+            "link": "https://old.tjap.jus.br/portal/cnib.html"
+        },
+        {
+            "opcao_submenu": "SIEL - Sistema de Informações Eleitorais",
+            "link": "https://old.tjap.jus.br/portal/siel.html"
+        },
+        {
+            "opcao_submenu": "Comissão de Informatização",
+            "link": "https://old.tjap.jus.br/portal/comissão-de-informatização.html"
+        },
+        {
+            "opcao_submenu": "Secretaria de Gestão Processual",
+            "link": "https://old.tjap.jus.br/portal/secretaria-de-gestão-processual.html"
+        },
+        {
+            "opcao_submenu": "Divisão de Sistemas Judiciários",
+            "link": "https://old.tjap.jus.br/portal/divisão-de-sistemas-judiciários.html"
+        },
+        {
+            "opcao_submenu": "Suporte Técnico",
+            "link": "https://old.tjap.jus.br/portal/suporte-técnico.html"
+        },
+        {
+            "opcao_submenu": "Regulamento da comunicação oficial e de mero expediente por meio eletrônico - Ato Conjunto nº 209-2010",
+            "link": "https://old.tjap.jus.br/portal/images/stories/documentos/atoconjunto2092010gpcgj.pdf"
+        },
+        {
+            "opcao_submenu": "Acesso",
+            "link": "http://java.tjap.jus.br/malotedigital"
+        },
+        {
+            "opcao_submenu": "SIG",
+            "link": "http://sig.tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Organizacional",
+            "link": "http://java.tjap.jus.br/organizacional"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/malote-digital.html",
+    "descricao": "  ×                                                                                                                                                                                                                                                                                          Malote Digital --------------                       Troca de Senha - Acesso pelo      , Menu Deintel           "
+}

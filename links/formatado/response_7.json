@@ -1,0 +1,135 @@
+{
+    "opcao_menu": "Organização Judiciária",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "",
+            "link": "  "
+        },
+        {
+            "opcao_submenu": "Portal da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia.html \"Portal da Transparência\""
+        },
+        {
+            "opcao_submenu": "Apresentação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao.html \"Apresentação\""
+        },
+        {
+            "opcao_submenu": "Modelo de Informações",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/modelo-de-informacoes.html \"Modelo de Informações\""
+        },
+        {
+            "opcao_submenu": "Atos Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/atos-transparencia.html \"Atos Transparência \""
+        },
+        {
+            "opcao_submenu": "Ranking da Transparência",
+            "link": "https://www.tjap.jus.br/portal/transparencia/transparencia-apresentacao/ranking-da-transparencia.html \"Ranking da Transparência\""
+        },
+        {
+            "opcao_submenu": "Transparência Pública",
+            "link": "https://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html"
+        },
+        {
+            "opcao_submenu": "Gestão",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-estrategica.html \"Gestão\""
+        },
+        {
+            "opcao_submenu": "Audiências e Sessões",
+            "link": "https://www.tjap.jus.br/portal/transparencia/audiencias-e-sessoes.html \"Audiências e Sessões\""
+        },
+        {
+            "opcao_submenu": "Serviço de Informações ao Cidadão",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sic.html \"Serviço de Informações ao Cidadão\""
+        },
+        {
+            "opcao_submenu": "Ouvidoria",
+            "link": "https://www.tjap.jus.br/portal/transparencia/ouvidoria.html \"Ouvidoria\""
+        },
+        {
+            "opcao_submenu": "Tecnologia da Informação e Comunicação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/tic.html \"Tecnologia da Informação e Comunicação\""
+        },
+        {
+            "opcao_submenu": "Gestão Orçamentária e Financeira",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-orcamentaria.html \"Gestão Orçamentária e Financeira\""
+        },
+        {
+            "opcao_submenu": "Licitações, Contratos e Instrumentos de Cooperação",
+            "link": "https://www.tjap.jus.br/portal/transparencia/licitacoes-contratos-e-instrumentos-de-cooperacao.html \"Licitações, Contratos e Instrumentos de Cooperação\""
+        },
+        {
+            "opcao_submenu": "Gestão de Pessoas",
+            "link": "https://www.tjap.jus.br/portal/transparencia/gestao-pessoas.html \"Gestão de Pessoas\""
+        },
+        {
+            "opcao_submenu": "Auditoria e Prestação de Contas",
+            "link": "https://www.tjap.jus.br/portal/transparencia/auditoria-e-prestacao-de-contas.html \"Auditoria e Prestação de Contas\""
+        },
+        {
+            "opcao_submenu": "Sustentabilidade e Acessibilidade",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade.html \"Sustentabilidade e Acessibilidade\""
+        },
+        {
+            "opcao_submenu": "Acessibilidade",
+            "link": "https://www.tjap.jus.br/portal/transparencia/sustentabilidade-e-acessibilidade/acessibilidade.html \"Acessibilidade\""
+        },
+        {
+            "opcao_submenu": "Início",
+            "link": "https://www.tjap.jus.br/portal/"
+        },
+        {
+            "opcao_submenu": "Constituição Federal",
+            "link": "http://www.planalto.gov.br/ccivil03/constituicao/constituicao.htm"
+        },
+        {
+            "opcao_submenu": "Constituição Estadual",
+            "link": "https://old.tjap.jus.br/portal/images/stories/constituicaoamapa.pdf"
+        },
+        {
+            "opcao_submenu": "LEI DE ORGANIZAÇÃO JUDICIÁRIA DO ESTADO DO AMAPÁ",
+            "link": "https://old.tjap.jus.br/portal/images/SGPE/legislacao/atualizacaoDECRETOn.0069de15demaiode1991.pdf"
+        },
+        {
+            "opcao_submenu": "Lei Complementar Nº 093/2015",
+            "link": "https://old.tjap.jus.br/portal/images/stories/legislacao/leis/leicomplementar932015.pdf"
+        },
+        {
+            "opcao_submenu": "Regimento Interno do Tribunal de Justiça do Amapá",
+            "link": "https://sig.tjap.jus.br/atonormativogridatonormativovertical/atonormativogridatonormativovertical.php?varato=207"
+        },
+        {
+            "opcao_submenu": "Regimento Interno da Turma Recursal",
+            "link": "https://sig.tjap.jus.br/atonormativogridatonormativovertical/atonormativogridatonormativovertical.php?varato=2412"
+        },
+        {
+            "opcao_submenu": "Resolução nº 1575/2022-TJAP",
+            "link": "https://sig.tjap.jus.br/atonormativogridatonormativovertical/atonormativogridatonormativovertical.php?varato=3312"
+        },
+        {
+            "opcao_submenu": "      Consulta de Atos Normativos",
+            "link": "https://sig.tjap.jus.br/atonormativo/atonormativogridatonormativo.php"
+        },
+        {
+            "opcao_submenu": "Tribunal de Justiça do Estado do Amapá",
+            "link": "https://www.tjap.jus.br/portal/images/imagens/portal/tjap-footer-ouro-2023.png"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.facebook.com/pages/tjap/215744231796241"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://twitter.com/tjapoficial"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.youtube.com/user/TJAPNoticias"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://instagram.com/tjap.oficial"
+        }
+    ],
+    "sourceURL": "https://www.tjap.jus.br/portal/legislacao2.html",
+    "descricao": "                                                                                                                                                                                                                                                                                                                                         Organização Judiciária  Legislação ----------                                         Decreto Nº 069/91 -       (atualizado até  LC 150/2023)                     (atualiza Decreto Nº 069/91)                                    (Resolução 1328/2019 - Adequação ao novo código civil e processo judicial eletrônico)                     - Regulamenta a estrutura organizacional, competências e atribuições dos órgãos, e definição quantitativa e qualitativa dos respectivos cargos em comissão e funções comissionados do Tribunal de Justiça do Estado do Amapá.                     !          "
+}

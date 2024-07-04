@@ -1,0 +1,23 @@
+{
+    "opcao_menu": "Tucujuris - Tribunal de justiça do Estado do Amapá",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Tucujuris",
+            "link": "../home/home.html"
+        },
+        {
+            "opcao_submenu": "Brasão da justiça",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/img/brasao-tj.jpg"
+        },
+        {
+            "opcao_submenu": "equipe de TIC",
+            "link": "https://www.tjap.jus.br/go/plantaotic"
+        },
+        {
+            "opcao_submenu": "Voltar ao topo",
+            "link": " main-content"
+        }
+    ],
+    "sourceURL": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-plantao/consultar-plantao.html",
+    "descricao": "Tucujuris      Precisamos confirmar suas credênciais  Por favor digite sua senha  Confirmar    !  PODER JUDICIÁRIO   TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ   Tucujuris - Sistema de gestão processual eletrônico  Consultar plantão judicial ==========================  Lotação  Data de início   dd/mm/aaaa  Data fim   dd/mm/aaaa      | Horário | Plantonista | Função | | --- | --- | --- | | \\-  |     |     |  \\ Perfil de usuário atualmente desativado.  Acessar a escala de plantão da   "
+}

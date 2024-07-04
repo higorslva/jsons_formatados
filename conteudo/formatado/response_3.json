@@ -1,0 +1,439 @@
+{
+    "opcao_menu": "Notários e Registradores",
+    "opcao_e_link": [
+        {
+            "opcao_submenu": "Cartórios Extrajudiciais",
+            "link": " "
+        },
+        {
+            "opcao_submenu": "Sistema de Selo Eletrônico",
+            "link": "http://tucujuris.tjap.jus.br"
+        },
+        {
+            "opcao_submenu": "Sistema de Selo Eletrônico - HOMOLOGAÇÃO",
+            "link": "http://testeapp.tjap.jus.br/extrajudicial/pages/login/"
+        },
+        {
+            "opcao_submenu": "Notários e Registradores",
+            "link": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/notários-e-registradores.html"
+        },
+        {
+            "opcao_submenu": "Legislação Específica",
+            "link": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/legislação-específica.html"
+        },
+        {
+            "opcao_submenu": "Consulta Jurisprudência",
+            "link": "http://tucujuris.tjap.jus.br/tucujuris/pages/consultar-jurisprudencia/consultar-jurisprudencia.html?tipojurisprudencia=99"
+        },
+        {
+            "opcao_submenu": "Consulta Reclamações",
+            "link": "http://sig.tjap.jus.br/cartoriosextrajudiciaisreclamacoes/ouvidoriagridestatisticatpreclamacoessite.php"
+        },
+        {
+            "opcao_submenu": "Consulta do Selo Eletrônico",
+            "link": "http://extrajudicial.tjap.jus.br/consultas"
+        },
+        {
+            "opcao_submenu": "Custas e Emolumentos dos Cartórios",
+            "link": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/tabela-de-emolumentos.html"
+        },
+        {
+            "opcao_submenu": "Manual de Correição e Inspeção Extrajudicial",
+            "link": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/manual-correicao-extrajudicial.html"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorio1ofcmacapa@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorio1ofcmacapa@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartorio1ofcmacapa@hotmail.com",
+            "link": "mailto:cartorio1ofcmacapa@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorio1ofcmacapa@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://www.cartoriojucacruz.com.br/"
+        },
+        {
+            "opcao_submenu": "https://www.cartoriojucacruz.com.br/",
+            "link": "https://www.cartoriojucacruz.com.br/"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorio1ofcmacapa@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cc.passos@terra.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cc.passos@terra.com.br"
+        },
+        {
+            "opcao_submenu": "contato@cristianepassos.com.br",
+            "link": "mailto:contato@cristianepassos.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cc.passos@terra.com.br"
+        },
+        {
+            "opcao_submenu": "https://www.ccpassos.com.br/",
+            "link": "https://www.ccpassos.com.br/"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cc.passos@terra.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cc.passos@terra.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:contato@cartoriovales.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:contato@cartoriovales.com.br"
+        },
+        {
+            "opcao_submenu": "contato@cartoriovales.com.br",
+            "link": "mailto:contato@cartoriovales.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:contato@cartoriovales.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://www.cartoriovales.com.br/"
+        },
+        {
+            "opcao_submenu": "https://www.cartoriovales.com.br/",
+            "link": "https://www.cartoriovales.com.br/"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:contato@cartoriovales.com.br"
+        },
+        {
+            "opcao_submenu": "cartoriomanoelguimaraes2024@gmail.com",
+            "link": "mailto:cartoriomanoelguimaraes2024@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:ninonunes@uol.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:ninonunes@uol.com.br"
+        },
+        {
+            "opcao_submenu": "ninonunes@uol.com.br",
+            "link": "mailto:ninonunes@uol.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:ninonunes@uol.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://www.crimacapa.com.br/"
+        },
+        {
+            "opcao_submenu": "https://www.crimacapa.com.br/",
+            "link": "https://www.crimacapa.com.br/"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:ninonunes@uol.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:2crimacapa@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:2crimacapa@gmail.com"
+        },
+        {
+            "opcao_submenu": "2crimacapa@gmail.com",
+            "link": "mailto:2crimacapa@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:2crimacapa@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://www.2crimacapa.com.br/"
+        },
+        {
+            "opcao_submenu": "https://www.2crimacapa.com.br/",
+            "link": "https://www.2crimacapa.com.br/"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:2crimacapa@gmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriooliveira@uol.com.br",
+            "link": "mailto:cartoriooliveira@uol.com.br"
+        },
+        {
+            "opcao_submenu": "https://www.cartoriooliveira-ap.com.br",
+            "link": "https://www.cartoriooliveira-ap.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioimoveisofirneysadala@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioimoveisofirneysadala@gmail.com"
+        },
+        {
+            "opcao_submenu": "cartorioimoveisofirneysadala@gmail.com",
+            "link": "mailto:cartorioimoveisofirneysadala@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://www.cartoriosantanasadala.com.br/"
+        },
+        {
+            "opcao_submenu": "https://www.cartoriosantanasadala.com.br",
+            "link": "https://www.cartoriosantanasadala.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioimoveisofirneysadala@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriolaranjaldojari@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriolaranjaldojari@gmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriolaranjaldojari@gmail.com",
+            "link": "mailto:cartoriolaranjaldojari@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriolaranjaldojari@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.cartoriolourenco.com.br/"
+        },
+        {
+            "opcao_submenu": "http://www.cartoriolourenco.com.br/",
+            "link": "http://www.cartoriolourenco.com.br/"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriolaranjaldojari@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioserradonavio@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriodeserradonavio.ap@gmail.com",
+            "link": "mailto:cartoriodeserradonavio.ap@gmail.com"
+        },
+        {
+            "opcao_submenu": "www.cartorioserradonavio.com.b",
+            "link": "https://www.cartorioserradonavio.com.br/"
+        },
+        {
+            "opcao_submenu": "www.cartorioitaubal.com.br",
+            "link": "http://www.cartorioitaubal.com.br/ \"Site do Cartório de Itaubal do Piririm\""
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioitaubal@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartorioitaubal@hotmail.com",
+            "link": "mailto:cartorioitaubal@hotmail.com"
+        },
+        {
+            "opcao_submenu": "www.cartorioamapa.com.br",
+            "link": "http://www.cartorioamapa.com.br/ \"Site do Cartório do Amapá\""
+        },
+        {
+            "opcao_submenu": "cartorioamapa1@hotmail.com",
+            "link": "mailto:cartorioamapa1@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriooiapoque@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriooiapoque@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriooiapoque@hotmail.com",
+            "link": "mailto:cartoriooiapoque@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriooiapoque@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://herbertharrop.wixsite.com/website"
+        },
+        {
+            "opcao_submenu": "https://herbertharrop.wixsite.com/website",
+            "link": "https://herbertharrop.wixsite.com/website"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriooiapoque@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:edinildacastro@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:edinildacastro@hotmail.com"
+        },
+        {
+            "opcao_submenu": "edinildacastro@hotmail.com",
+            "link": "mailto:edinildacastro@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:edinildacastro@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.cartoriocalderaro.com.br/"
+        },
+        {
+            "opcao_submenu": "http://www.cartoriocalderaro.com.br",
+            "link": "http://www.cartoriocalderaro.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:edinildacastro@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriomazagao@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriomazagao@hotmail.com",
+            "link": "mailto:cartoriomazagao@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.cartoriomazagao.com.br/"
+        },
+        {
+            "opcao_submenu": "http://www.cartoriomazagao.com.br",
+            "link": "http://www.cartoriomazagao.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioferreiragomes@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartorioferreiragomes@hotmail.com",
+            "link": "mailto:cartorioferreiragomes@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://www.cartorioapolinario.com.br/"
+        },
+        {
+            "opcao_submenu": "http://www.cartorioapolinario.com.br",
+            "link": "http://www.cartorioapolinario.com.br"
+        },
+        {
+            "opcao_submenu": "http://www.cartoriocalcoene.com.br",
+            "link": "http://www.cartoriocalcoene.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriotartarugalzinho@gmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriotartarugalzinho@gmail.com",
+            "link": "mailto:cartoriotartarugalzinho@gmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://www.cartoriotartarugalzinho.com.br/"
+        },
+        {
+            "opcao_submenu": "https://www.cartoriotartarugalzinho.com.br",
+            "link": "https://www.cartoriotartarugalzinho.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioportogrande@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorioportogrande@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriodeportogrande@gmail.com",
+            "link": "mailto:cartoriodeportogrande@gmail.com"
+        },
+        {
+            "opcao_submenu": "www.cartoriodeportogrande.com.br",
+            "link": "https://www.cartoriodeportogrande.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartorio.vitoriadojari@yahoo.com.br"
+        },
+        {
+            "opcao_submenu": "cartorio.vitoriadojari@yahoo.com.br",
+            "link": "mailto:cartorio.vitoriadojari@yahoo.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "https://www.cartoriovitoriadojari.com.br/"
+        },
+        {
+            "opcao_submenu": "https://www.cartoriovitoriadojari.com.br",
+            "link": "https://www.cartoriovitoriadojari.com.br"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "mailto:cartoriopracuuba1@hotmail.com"
+        },
+        {
+            "opcao_submenu": "cartoriopracuuba1@hotmail.com",
+            "link": "mailto:cartoriopracuuba1@hotmail.com"
+        },
+        {
+            "opcao_submenu": "",
+            "link": "http://cartoriodepracuuba.com.br/"
+        },
+        {
+            "opcao_submenu": "http://cartoriodepracuuba.com.br",
+            "link": "http://cartoriodepracuuba.com.br"
+        }
+    ],
+    "sourceURL": "https://old.tjap.jus.br/portal/home-cartorios-extrajudiciais/not%C3%A1rios-e-registradores.html",
+    "descricao": "  ×                                                                                                                                                                       Notários e Registradores ------------------------  Cartórios do Amapá ------------------  Município de Macapá   1º OFÍCIO DE NOTAS, REGISTROS PÚBLICOS E ANEXOS - CARTÓRIO JUCÁ CRUZ  Oficial Titular: Bel. Francisco Erionaldo Cruz Júnior   Oficial Substituto: Thaynara da Silva Maciel   Endereço: Rua Tiradentes, 876 - Centro - CEP: 68900-098 - Macapá-AP   Telefone: (96) 3225-2954 - 3223-3216/(96) 99162-4224   E-mail:      Site:     2º OFÍCIO DE NOTAS, REGISTROS PÚBLICOS E ANEXOS - CARTÓRIO CRISTIANE PASSOS  Oficial Titular: Belª. Maria Cristiane da Silva Passos   Oficial Substituto: Francilene da Silva Duarte   Endereço: Rua Santos Dumont, 2723 - Buritizal - CEP: 68900-450 - Macapá-AP   Telefone: (96) 3242-4000/4003 - fax: 3242-2491   E-mail:       Site:     3º OFÍCIO DE NOTAS, REGISTROS PÚBLICOS E ANEXOS - CARTÓRIO VALES  Oficial Titular: Bel. Victor Ribeiro Fonseca Vales   Oficial Substituto: Bel. Diogo Ribeiro Fonseca Vales   Endereço: Rua General Rondon, 45 - Laguinho - CEP: 68908-181 - Macapá-AP   Telefone: (96) 3227-0918 / 3225-2187   Plantão: (96) 99194-5542 - Disponível apenas nos meses de Março, Junho, Setembro e Dezembro.   E-mail:       Site:     CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO DISTRITO DE BAILIQUE  Oficial Designado:  IVANILDE FERREIRA DA SILVA BRITO   Oficial Substituto: Não Possui   Endereço: Posto Avançado do Tribunal de Justiça do Estado do Amapá   Telefone:  (96) 98420-1260  E-mail:    1º CARTÓRIO DE REGISTRO DE IMÓVEIS - CARTÓRIO ELOY NUNES  Oficial Titular: Bel. Nino Jesus Aranha Nunes   Oficial Substituto: Bel. Marcelo Porpino Nunes   Endereço: Rua Ernestino Borges, 923 - Centro Macapá-AP   Telefone: (96) 3223-4888 / fax: (96) 3222-1808 / 3222-0011/(96) 98114-0002   E-mail:      Site:     2º CARTÓRIO DE REGISTRO DE IMÓVEIS  Oficial Titular: Bel. Cézar Júnior Cabral   Oficial Substituto: Bel. Viviane Ferreira de Souza   Endereço: Rua Leopoldo Machado, 2334, Loja EUC nº 265, Mezanino do 2º piso, Macapá Shopping,   Bairro do Trem, Macapá-AP, CEP 68.901-971   Telefone: (96) 3388-2381 / Whatsapp (96) 98148-2381   E-mail:       Site:     Município de Santana   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE SANTANA - CARTÓRIO OLIVEIRA  Oficial Titular: Bel. Jesuína Chagas de Oliveira   Oficial Substituto: Márcia Chagas de Oliveira   Endereço: Rua Castelo Branco, 641 - Bairro Comercial - CEP: 68925-000 - Santana-AP   Telefone: (96) 99913-9685 / (96) 98145-1693   E-mail:     Site:      CARTÓRIO DE REGISTRO DE IMÓVEIS - CARTÓRIO OFIRNEY SADALA  Oficial Titular: Bel. Ofirney da Conceição Sadala   Oficial Substituto: Lindemberg Araújo Mota   Endereço: R. Machado de Assis, 391 - Hospitalidade - CEP: 68925-000 - Santana-AP   Telefone: (96) 99206-2887   E-mail:       Site:     Município de Laranjal do Jari   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE LARANJAL DO JARI  Oficial Titular: Alexandre Lourenço Ferreira - Interino   Oficial Substituto:  Lana Conceição Pinto Caldas Ferreira   Endereço: R. Cultura, N° 627 - Agreste - CEP: 68920-000 - Laranjal do Jari-AP   Telefone: (96) 3335-3833 / (96) 99168-3826 / (96) 99152-4009   E-mail:       Site:     Obs.: Os livros do antigo cartório da localidade de Jarilândia estão sob a guarda deste cartório.  Município de Serra do Navio   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE SERRA DO NAVIO  Oficial Designado: Leandro Teixeira Leite - Interino   Oficial Substituto: não possui   Endereço: Rua A-3, 467 - Vila Intermediária  - CEP: 68914-000 - Serra do Navio-AP   Telefone: (96) 99173-6613   E-mail:      Site:  r   Município de Itaubal do Piririm   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE ITAUBAL DO PIRIRIM  Oficial Designado: Caio Henrique Nunes Palmerim - Interino   Oficial Substituto: Não Possui   Endereço: Rua João Palha dos Reis, 445 - Centro - CEP: 68976-000 - Itaubal-AP   Telefone: (96) 98409-8989   Site:     E-mail:    Município de Amapá    CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE AMAPÁ  Oficiala Designada: Regiane Rodrigues de Souza - interina  Substituta:   Endereço: Praça Barão do Rio Branco, 64 - Centro - CEP: 68950-000 - Amapá-AP   Telefone: (96) 3421-1665/(96) 98809-5146  Site:   E-mail:   Município de Oiapoque   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE OIAPOQUE  Oficial Titular: Herbert Souza Harrop   Oficial Substituto: Danilo Pereira Coelho   Endereço: Rua Getúlio Vargas, 754-B - Centro - CEP: 68980-000 - Oiapoque-AP   Telefone: (96) 3521-2155/(96) 98803-7311   E-mail:       Site:     Município de Pedra Branca do Amapari   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MINICÍPIO DE PEDRA BRANCA DO AMAPARI  Oficial Designado: Edinilda de Castro Silva   Oficial Substituto: não possui   Endereço: Rua Francisco Brás, 54 - Centro - CEP: 68900-000 - Padra Branca do Amapari-AP   Telefone: (96) 3322-1222/(96) 98806-3664  E-mail:       Site:     Município de Mazagão   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE MAZAGÃO  Oficial Designado: Kátia de Souza Rodrigues   Oficial Substituto: Iolan Trindade dos Santos   Endereço: Avenida intendente alfredo pinto, 91/A - Bairro União - Mazagão-AP   Telefone: (96) 3271-1344/(96) 99126-8967   E-mail:      Site:    Município de Ferreira Gomes   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE FERREIRA GOMES  Oficial Titular: Bel. Walber Almeida Apolinário   Oficial Substituto: Cecília Maria de Oliveira Apolinário   Oficial Substituto: Marcilene Corrêa Pinheiro   Endereço: Avenida Francisco Pinheiro Borges, nº 938, Montanha - Ferreira Gomes - Ponto de referência: Próximo a Praça.   Telefone: (96) 99191-5459   E-mail:      Site:    Município de Calçoene   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE CALÇOENE  Oficial Designado: Maísa Costa Marinho   Oficial Substituto: não possui   Endereço: Av. João Anastácio dos Santos, s/n - Centro- CEP: 68960-000 - Calçoene-AP   Telefone: (96) 98403-1748 (96) 98427-3160 (WhatsApp)   E-mail: cartoriocalcoene @gmail.com   Site:      Município de Tartarugalzinho   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE TARTARUGALZINHO  Oficial Designado: Osângela Coelho Pires de Oliveira Visnoveski   Oficial Substituto: Josiane dos Santos Guimarães   Endereço: Rua São Luiz, 778 - Centro - Tartarugalzinho-AP   Telefone: (96) 3422-1107/(96) 98812-4170  E-mail:      Site:    Município de Cutias do Araguari   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE CUTIAS DO ARAGUARI   Cartório anexado ao CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE FERREIRA GOMES, CNS 00.510-8, conforme Provimento nº 442/2023-CGJ.  Município de Porto Grande   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE PORTO GRANDE  Oficial Titular: Walber Almeida Apolinário   Oficial Substituto:    Endereço: Rua Rodovia Perimetral Norte - Malvinas - CEP: 68997-000 - Porto Grande-AP   Telefone: (96) 99180-6507 (WhatsApp)   E-mail:       Site:     Município de Vitória do Jari   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE VITÓRIA DO JARI  Oficial Designado: Andréia dos Reis Maciel   Oficial Substituto:  Maria das Graças Porfiria dos Reis   Endereço: Avenida Pedro Ladislau, 3200 - Bairro Comercial - CEP: 68924-000 - Vitória do Jari-AP   Telefone: (96) 3622-1656/(96) 99129-1885   E-mail:      Site:    Município de Pracuúba   CARTÓRIO DE REGISTROS PÚBLICOS E TABELIONATO DO MUNICÍPIO DE PRACUÚBA     Oficiala Designada: Mariana Figueiredo Barata   Oficial Substituto: Não possui   Endereço:Rua Francisco Teixeira, 36 - Centro - CEP: 68918-000 - Pracuúba-AP   Telefone: (96) 98485-8888   E-mail:      Site:    "
+}
